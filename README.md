@@ -1,4 +1,4 @@
-### BOT FACEBOOK VIA COOKIE
+### AUTO FACEBOOK
 <div align="center">
   <br>
   <br>
