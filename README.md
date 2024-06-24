@@ -33,7 +33,7 @@ $ python run.py
 
 ### Tampilan Script
 <div align="center">
-  <img src="https://imgtr.ee/images/2024/06/16/9a08a53519f39b86314e25d9af089c54.jpeg">
+  <img src="https://imgtr.ee/images/2024/06/24/d5af5d77b627a4b37602e8153de50290.jpeg">
 
 ### Login script
 - Cookies only, usahakan menggunakan akun tumbal 
