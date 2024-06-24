@@ -81,3 +81,12 @@ SOFTWARE.
 print("Selamat menikmati scriptnya")
 ```
 ##
+
+
+<p align="center">
+&nbsp; <a href="https://chat.whatsapp.com/BS3dMxkQb8NCt77rzhKp6B" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/twitter.png" width="50" /></a>
+&nbsp; <a href="https://chat.whatsapp.com/BS3dMxkQb8NCt77rzhKp6B" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/youtube.png" width="50" /></a>  
+&nbsp; <a href="https://chat.whatsapp.com/BS3dMxkQb8NCt77rzhKp6B" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/instagram-new.png" width="50" /></a>  
+&nbsp; <a href="https://wa.me/6287776069309" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/whatsapp.png" width="50" /></a>
+&nbsp; <a href="https://www.facebook.com/Faya.codeOfficial" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/facebook.png"  width="50" /></a>
+</p>
