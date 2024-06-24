@@ -22,6 +22,7 @@ $ apt update -y && apt upgrade -y
 $ pkg install git python-pip
 $ git clone https://github.com/Fayalvy-Code/AUTO-FB
 $ cd "AUTO-FB"
+$ termux-setup-storage (Enter) (Y)
 $ python -m pip install -r requirements.txt
 $ python run.py
 ```
