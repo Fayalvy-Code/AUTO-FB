@@ -1,0 +1,8 @@
+auto = json.dumps(
+  {
+  "cookie": "datr=VENbZu53l8AkvRbbbe8f0_jX; sb=VENbZmZ_9-AbXlwFYUrEG0hp; ps_n=1; ps_l=1; dpr=1.4375; vpd=v1%3B963x501x1.4375; locale=en_US; wd=502x963; fr=0E2OBMvvMLcIkaFDq.AWUpalsCcy8y0E3LgQGYOFDUc1Y.BmW0NU..AAA.0.0.BmeDyM.AWWdzWBjwZ4; c_user=61561300893386; xs=12%3ApQfz2pkwxOVSrQ%3A2%3A1719155852%3A-1%3A-1; fbl_st=100435821%3BT%3A28654883; wl_cbv=v2%3Bclient_version%3A2540%3Btimestamp%3A1719293028"
+  "user-agent": "Mozilla/5.0 (Linux; Android 14; NX769J Build/UKQ1.230917.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/126.0.6478.103 Mobile Safari/537.36 [FB_IAB/FB4A;FBAV/469.2.0.51.80;]",
+  "user_id": "61561300893386"
+  }
+)
+return(auto)
